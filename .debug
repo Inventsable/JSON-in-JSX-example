@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ExtensionList>
+    <Extension Id="com.json-test.panel">
+        <HostList>
+            <Host Name="ILST" Port="5546" />
+        </HostList>
+    </Extension>
+</ExtensionList>
