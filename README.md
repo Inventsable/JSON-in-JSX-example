@@ -3,9 +3,16 @@
 ## install (needs NodeJS)
 
 ```bash
-git clone Inventsable/JSON-in-JSX-example
+# place in /CEP/extensions/
+git clone https://github.com/Inventsable/JSON-in-JSX-example.git
 
+# Install node dependencies
+npm install
+
+# Launch developer context for panel
 npm run serve
+
+# Launch Illustrator and find in Windows > Extensions. Must do above steps before launching Illustrator!
 ```
 
 ## Using the [same code provided here](https://community.adobe.com/t5/illustrator/parsing-json-in-adobe-illustrator-extended-panel/m-p/10841051)
